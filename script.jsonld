@@ -1,0 +1,28 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "Pharmacy",
+  "name": "HP",
+  "url": "https://blog.hubspot.com/hubfs/parts-url.jpg",
+  "sameAs": [
+     "https://blog.hubspot.com/hubfs/parts-url.jpg"
+  ],
+  "logo": "https://blog.hubspot.com/hubfs/parts-url.jpg",
+  "priceRange": "$$",
+  "image": "https://blog.hubspot.com/hubfs/parts-url.jpg",
+  "description": "JSON-LD",
+  "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "10",
+     "addressLocality": "sydney",
+     "addressRegion": "New South Wales",
+     "postalCode": "2000",
+     "addressCountry": "Australia"
+  },
+  "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": ".0.5893000",
+     "longitude": "1.500222598"
+  },
+  "hasMap": "https://www.google.com/maps/search/image-+url/@59.4313216,24.7595008,11z/data=!3m1!4b1?hl=en",
+   "openingHours": "Mo 01:00-01:00 Tu 01:00-01:00 We 01:00-01:00 Th 01:00-01:00"
+}
